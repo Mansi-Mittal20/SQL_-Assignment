@@ -1,4 +1,5 @@
-#DDL Practical Questions 
+#DDL Practical Questions
+ 
 /*1. Create a table Student with columns: 
 o student_id (Primary Key) 
 o name 
@@ -64,7 +65,8 @@ ALTER TABLE employee DROP FOREIGN KEY employee_ibfk_1;
 TRUNCATE TABLE employee;
 
 
-# Practical Questions 
+# DML Practical Questions 
+ 
 #1. Insert 5 records into the Students table.
 
 INSERT INTO students VALUE(101,"Mansi",23,"mansi344@gmail.com",'9234567898');
